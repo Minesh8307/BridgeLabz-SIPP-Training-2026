@@ -20,8 +20,6 @@ public class StringIndexDemo {
         System.out.print("Enter String: ");
         String text = sc.next();
 
-        // generateException(text);
-
         handleException(text);
     }
 }

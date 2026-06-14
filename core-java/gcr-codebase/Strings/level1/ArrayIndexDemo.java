@@ -26,7 +26,6 @@ public class ArrayIndexDemo {
             names[i] = sc.next();
         }
 
-        // generateException(names);
 
         handleException(names);
     }
